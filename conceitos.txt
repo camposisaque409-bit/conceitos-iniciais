@@ -1,0 +1,5 @@
+URL: E um rastreador para localizar recurso da web e sites.
+HTTP: Tem o papel e transferir mensagens entre os computadores.
+TCP: Gerencia a detecção e correção de erros, e reconstitui o download ou mensagens para o destino original.
+IP: E o endereço de cada dispositivo, site e redes.
+DNS: Tem o trabalho de transcrever o nome do site para o IP.
